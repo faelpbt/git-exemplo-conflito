@@ -1,2 +1,6 @@
 “Conteúdo da Linha 1”
+<<<<<<< HEAD
 “Conteúdo da Linha 3”
+=======
+“Conteúdo da Linha 2”
+>>>>>>> feature-branch
